@@ -1,0 +1,1151 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"data",
+				"data-responsimage"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"videos",
+				"videos-random"
+			],
+			[
+				"video",
+				"video-random"
+			],
+			[
+				"list",
+				"list-group-flush"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"backo",
+				"background"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "optica.html",
+			"settings":
+			{
+				"buffer_size": 30090,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "optica.css",
+			"settings":
+			{
+				"buffer_size": 875,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 160.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"priva",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"gru",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker: Insert Color"
+			],
+			[
+				"origin",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"orig",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"origami destr",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"origi",
+				"Origami: Create Pane Below"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"instac",
+				"Package Control: Install Package"
+			],
+			[
+				"evern",
+				"Send to evernote"
+			],
+			[
+				"send",
+				"Send to evernote"
+			],
+			[
+				"evernot",
+				"Evernote Settings"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jdsimcoe/Sites/saplings/.git/config",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/js/main.js",
+		"/Users/jdsimcoe/Sites/saplings/manifest/config.php",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/ncc.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/utilities/toolkit.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/donate.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/resources.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/contact.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/bootstrap/less/mixins.less",
+		"/Users/jdsimcoe/Sites/saplings/node_modules/grunt-deployments/tasks/deployments.js",
+		"/Users/jdsimcoe/Sites/saplings/Gruntfile.js",
+		"/etc/my.cnf",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/partnership.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/videos.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/error.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/utilities/navigation.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/home.xsl",
+		"/Users/jdsimcoe/Sites/saplings/.gitignore",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/missions.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/bootstrap/less/variables.less",
+		"/Users/jdsimcoe/Sites/saplings/workspace/utilities/globals.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/utilities/master.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/css/main.css",
+		"/Users/jdsimcoe/Sites/saplings/manifest/cache/.gitignore",
+		"/Users/jdsimcoe/Sites/saplings/.htaccess",
+		"/Users/jdsimcoe/Sites/saplings/manifest/tmp/.gitignore",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/music.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/translation.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/less/horizon.less",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/jdsimcoe/Dropbox/Public/userscripts/basecamp.css",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/bootstrap/less/grid.less",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/User/SublimeEvernote.sublime-settings",
+		"/Users/jdsimcoe/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/jdsimcoe/Sites/saplings/workspace/pages/about.xsl",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/bootstrap/less/forms.less",
+		"/Users/jdsimcoe/Sites/saplings/symphony/lib/toolkit/class.general.php",
+		"/Users/jdsimcoe/Sites/saplings/workspace/assets/less/main.less",
+		"/Users/jdsimcoe/Sites/saplings/symphony/assets/css/symphony.notices.css",
+		"/Users/jdsimcoe/Sites/saplings/extensions/subsectionmanager/fields/field.subsectionmanager.php",
+		"/Users/jdsimcoe/Sites/saplings/symphony/assets/navigation.xml",
+		"/etc/apache2/http.conf",
+		"/private/etc/apache2/users/jdsimcoe.conf",
+		"/Users/jdsimcoe/Dropbox/conf/httpd.conf",
+		"/Users/jdsimcoe/Dropbox/conf/my.cnf",
+		"/Users/jdsimcoe/Dropbox/conf/jdsimcoe.conf",
+		"/Users/jdsimcoe/Dropbox/conf/hosts",
+		"/Users/jdsimcoe/Dropbox/conf/bash_profile",
+		"/Users/jdsimcoe/Library/Caches/TemporaryItems/config.php",
+		"/usr/local/mysql/my.cnf",
+		"/Users/jdsimcoe/Desktop/httpd.conf",
+		"/Users/jdsimcoe/Dropbox/Simko/MySQLSettings.md",
+		"/etc/apache2/httpd.conf",
+		"/Users/jdsimcoe/Sites/MySQLSettings.md",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/xsl/locations.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/utilities/toolkit.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/data-sources/data.layouts_ds_tags_entries_by_tag.php",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/xsl/verses.xsl",
+		"/Users/jdsimcoe/Sites/atheycreek-ensemble/workspace/utilities/master.xsl",
+		"/Users/jdsimcoe/Library/Caches/TemporaryItems/.gitconfig",
+		"/Users/jdsimcoe/Sites/atheycreek-ensemble/workspace/themes/active/xsl/alerts.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/xsl/members-roles.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/css/common.css",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/less/athey.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/responsive-utilities.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/xsl/featured.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/mixins.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/xsl/teachings.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/utilities/components.xsl",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/less/main.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/Gruntfile.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/js/main.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/features/audio.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/glyphicons.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/manifest/config.php",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/xsl/events.xsl",
+		"/Users/jdsimcoe/Desktop/offcanvas.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/extensions/elasticsearch/content/content.mappings.php",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/elasticsearch/mappings/teachings.json",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/elasticsearch/mappings/teachings.php",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/components/images.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/nav-list.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/footer.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/features/carousel.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/layouts/columns.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/carousel.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/navbar.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/offcanvas.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/components/locations.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/layouts/home-group.less",
+		"/Users/jdsimcoe/Desktop/IMG_0810.jpg",
+		"/Users/jdsimcoe/Sites/churchdeploy/html/tagline.html",
+		"/Users/jdsimcoe/Sites/churchdeploy/sql/eota_2013-05-04.sql",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/css/common_old.css",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/features/search.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/export/combined.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/css/main.css",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/install.sql",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/less/docs.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/node_modules/grunt-css/node_modules/clean-css/test/unit-test.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/forms.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/variables.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/dropdowns.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/navbar.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/js/mixpanel.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/variables.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/js/application.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/off-canvas.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/assets/js/application.js",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/less/glyphicons.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/less/webfonts.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/scss/main.scss",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/scss/offcanvas.scss",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/scss/core.scss",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/common.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/core.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/_includes/header.html",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/_includes/footer.html",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/themes/active/less/bootstrap-glyphicons.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/core/responsimage.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/alerts.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/less/components/alerts.less",
+		"/Users/jdsimcoe/Sites/churchdeploy/workspace/bootstrap/less/dropdowns.less"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"videos",
+			".box",
+			".panel",
+			"list-group-item",
+			"modal",
+			"img-responsive",
+			".list-group",
+			"border-radius",
+			"list-group",
+			"featured",
+			"feature",
+			"space",
+			"list-group",
+			".left",
+			"navbar",
+			"h3",
+			"btn-bordered",
+			".placeholder",
+			"placeholder",
+			"navbar",
+			"brand",
+			"border-radius",
+			"navbar",
+			"not",
+			"$pt2",
+			"<xsl:template name=\"pagination\">",
+			"pagination",
+			"cd-pagination",
+			"years-counter",
+			"$pt",
+			"carousel-caption",
+			"featured",
+			"caption",
+			"single",
+			"teaching-actions",
+			"audio",
+			"col-lg-12",
+			"main-container",
+			"-webkit-transition",
+			"transition",
+			"span9",
+			"span8",
+			"span4",
+			"span6",
+			"span12",
+			"span4",
+			"span8",
+			"span4",
+			"teachings-recent",
+			"events-entry-column-right",
+			"See all Events",
+			"see all events",
+			"nav-list",
+			"events",
+			"home",
+			".navbar-search",
+			".navbar-search input",
+			"border-radius",
+			"phone",
+			"brand",
+			"podcast"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-lg-6",
+			"col-lg-12",
+			"col-lg-8",
+			"col-lg-4"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "optica.html",
+					"settings":
+					{
+						"buffer_size": 30090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3051,
+								3051
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 626.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "optica.css",
+					"settings":
+					{
+						"buffer_size": 875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								875
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"optica.html"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"config",
+				"manifest/config.php"
+			],
+			[
+				"donate",
+				"workspace/pages/donate.xsl"
+			],
+			[
+				"res",
+				"workspace/pages/resources.xsl"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"resources",
+				"workspace/pages/resources.xsl"
+			],
+			[
+				"contact",
+				"workspace/pages/contact.xsl"
+			],
+			[
+				"ncc",
+				"workspace/pages/ncc.xsl"
+			],
+			[
+				"main.css",
+				"workspace/assets/css/main.css"
+			],
+			[
+				"deplo",
+				"node_modules/grunt-deployments/tasks/deployments.js"
+			],
+			[
+				"depl",
+				"node_modules/grunt-deployments/tasks/deployments.js"
+			],
+			[
+				"home",
+				"workspace/pages/home.xsl"
+			],
+			[
+				"naviga",
+				"workspace/utilities/navigation.xsl"
+			],
+			[
+				"toolkit",
+				"workspace/utilities/toolkit.xsl"
+			],
+			[
+				"htacces",
+				".htaccess"
+			],
+			[
+				"missions",
+				"workspace/pages/missions.xsl"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"vide",
+				"workspace/pages/videos.xsl"
+			],
+			[
+				"master",
+				"workspace/utilities/master.xsl"
+			],
+			[
+				"error",
+				"workspace/pages/error.xsl"
+			],
+			[
+				"mixi",
+				"workspace/assets/bootstrap/less/mixins.less"
+			],
+			[
+				"variab",
+				"workspace/assets/bootstrap/less/variables.less"
+			],
+			[
+				"global",
+				"workspace/utilities/globals.xsl"
+			],
+			[
+				"videos",
+				"workspace/pages/videos.xsl"
+			],
+			[
+				"gitign",
+				"manifest/tmp/.gitignore"
+			],
+			[
+				"about",
+				"workspace/pages/about.xsl"
+			],
+			[
+				"navi",
+				"workspace/utilities/navigation.xsl"
+			],
+			[
+				"partn",
+				"workspace/pages/partnership.xsl"
+			],
+			[
+				"music",
+				"workspace/pages/music.xsl"
+			],
+			[
+				"varib",
+				"workspace/assets/bootstrap/less/variables.less"
+			],
+			[
+				"resour",
+				"workspace/pages/resources.xsl"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"resou",
+				"workspace/pages/resources.xsl"
+			],
+			[
+				"htacc",
+				".htaccess"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"grid",
+				"workspace/assets/bootstrap/less/grid.less"
+			],
+			[
+				"vari",
+				"workspace/assets/bootstrap/less/variables.less"
+			],
+			[
+				"htaccess",
+				".htaccess"
+			],
+			[
+				"variables",
+				"workspace/assets/bootstrap/less/variables.less"
+			],
+			[
+				"nav",
+				"workspace/utilities/navigation.xsl"
+			],
+			[
+				"trans",
+				"workspace/pages/translation.xsl"
+			],
+			[
+				"main.",
+				"workspace/assets/js/main.js"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"horizon",
+				"workspace/assets/less/horizon.less"
+			],
+			[
+				"class.gener",
+				"symphony/lib/toolkit/class.general.php"
+			],
+			[
+				"horiz",
+				"workspace/assets/less/horizon.less"
+			],
+			[
+				"mission",
+				"workspace/pages/missions.xsl"
+			],
+			[
+				"main",
+				"workspace/assets/less/main.less"
+			],
+			[
+				"partner",
+				"workspace/pages/partnership.xsl"
+			],
+			[
+				"rsou",
+				"workspace/pages/resources.xsl"
+			],
+			[
+				"sy",
+				"symphony/assets/css/symphony.notices.css"
+			],
+			[
+				"contac",
+				"workspace/pages/contact.xsl"
+			],
+			[
+				"fields",
+				"extensions/subsectionmanager/fields/field.subsectionmanager.php"
+			],
+			[
+				"horizo",
+				"workspace/assets/less/horizon.less"
+			],
+			[
+				"mixis",
+				"workspace/assets/bootstrap/less/mixins.less"
+			],
+			[
+				"forms",
+				"workspace/assets/bootstrap/less/forms.less"
+			],
+			[
+				"varibal",
+				"workspace/assets/bootstrap/less/variables.less"
+			],
+			[
+				"main.less",
+				"workspace/assets/less/main.less"
+			],
+			[
+				"homx",
+				"workspace/pages/home.xsl"
+			],
+			[
+				"contri",
+				"contribute.html"
+			],
+			[
+				"pagin",
+				"workspace/utilities/pagination.xsl"
+			],
+			[
+				"tool",
+				"workspace/utilities/toolkit.xsl"
+			],
+			[
+				"location",
+				"workspace/themes/active/xsl/locations.xsl"
+			],
+			[
+				"ds_tags",
+				"workspace/data-sources/data.layouts_ds_tags_entries_by_tag.php"
+			],
+			[
+				"events",
+				"workspace/themes/active/xsl/events.xsl"
+			],
+			[
+				"compon",
+				"workspace/utilities/components.xsl"
+			],
+			[
+				"veres",
+				"workspace/themes/active/xsl/verses.xsl"
+			],
+			[
+				"common",
+				"workspace/themes/active/css/common.css"
+			],
+			[
+				"athey.less",
+				"workspace/themes/active/less/athey.less"
+			],
+			[
+				"teachings",
+				"workspace/themes/active/xsl/teachings.xsl"
+			],
+			[
+				"featured",
+				"workspace/themes/active/xsl/featured.xsl"
+			],
+			[
+				"responsi",
+				"workspace/bootstrap/less/responsive-utilities.less"
+			],
+			[
+				"featur",
+				"workspace/themes/active/xsl/featured.xsl"
+			],
+			[
+				"confi",
+				"manifest/config.php"
+			],
+			[
+				"content.mapp",
+				"extensions/elasticsearch/content/content.mappings.php"
+			],
+			[
+				"mixins",
+				"workspace/bootstrap/less/mixins.less"
+			],
+			[
+				"glyphic",
+				"workspace/less/core/glyphicons.less"
+			],
+			[
+				"audio",
+				"workspace/less/features/audio.less"
+			],
+			[
+				"images",
+				"workspace/less/components/images.less"
+			],
+			[
+				"columns",
+				"workspace/less/layouts/columns.less"
+			],
+			[
+				"components",
+				"workspace/utilities/components.xsl"
+			],
+			[
+				"loca",
+				"workspace/less/components/locations.less"
+			],
+			[
+				"home-gr",
+				"workspace/less/layouts/home-group.less"
+			],
+			[
+				"locations",
+				"workspace/less/components/locations.less"
+			],
+			[
+				"carousel",
+				"workspace/bootstrap/less/carousel.less"
+			],
+			[
+				"car",
+				"workspace/less/features/carousel.less"
+			],
+			[
+				"carouse",
+				"workspace/bootstrap/less/carousel.less"
+			],
+			[
+				"grunf",
+				"Gruntfile.js"
+			],
+			[
+				"footer",
+				"workspace/less/core/footer.less"
+			],
+			[
+				"navlist",
+				"workspace/less/core/nav-list.less"
+			],
+			[
+				"variabl",
+				"workspace/bootstrap/less/variables.less"
+			],
+			[
+				"navbar",
+				"workspace/bootstrap/less/navbar.less"
+			],
+			[
+				"glyphico",
+				"workspace/less/core/glyphicons.less"
+			],
+			[
+				"dropdown",
+				"workspace/less/core/dropdowns.less"
+			],
+			[
+				"common.less",
+				"workspace/less/core/common.less"
+			],
+			[
+				"offca",
+				"workspace/less/core/offcanvas.less"
+			],
+			[
+				"applicatoin",
+				"workspace/themes/active/js/application.js"
+			],
+			[
+				"main.js",
+				"workspace/themes/active/js/main.js"
+			],
+			[
+				"gly",
+				"workspace/less/core/glyphicons.less"
+			],
+			[
+				"application",
+				"workspace/themes/active/js/application.js"
+			],
+			[
+				"glyphicon",
+				"workspace/less/core/glyphicons.less"
+			],
+			[
+				"core.",
+				"workspace/less/core/core.less"
+			],
+			[
+				"webfont",
+				"workspace/themes/active/less/webfonts.less"
+			],
+			[
+				"glyphi",
+				"workspace/themes/active/less/glyphicons.less"
+			],
+			[
+				"mix",
+				"workspace/js/mixpanel.js"
+			],
+			[
+				"core",
+				"workspace/scss/core.scss"
+			],
+			[
+				"main.scss",
+				"workspace/themes/active/scss/main.scss"
+			],
+			[
+				"resp",
+				"workspace/less/core/responsimage.less"
+			],
+			[
+				"navba",
+				"workspace/less/core/navbar.less"
+			],
+			[
+				"bootg",
+				"workspace/themes/active/less/bootstrap-glyphicons.less"
+			],
+			[
+				"alerts",
+				"workspace/bootstrap/less/alerts.less"
+			],
+			[
+				"drop",
+				"workspace/less/core/dropdowns.less"
+			],
+			[
+				"buttons",
+				"workspace/bootstrap/less/buttons.less"
+			],
+			[
+				"mixin",
+				"workspace/bootstrap/less/mixins.less"
+			],
+			[
+				"head",
+				"workspace/bootstrap/_includes/header.html"
+			],
+			[
+				"core.s",
+				"workspace/scss/core.scss"
+			],
+			[
+				"teaching",
+				"workspace/themes/active/xsl/teachings.xsl"
+			],
+			[
+				"foundation.zep",
+				"workspace/themes/active/js/foundation.zepto.js"
+			],
+			[
+				"foundation.cook",
+				"workspace/foundation/js/foundation/foundation.cookie.js"
+			],
+			[
+				"cookie",
+				"workspace/js/jquery.cookie.js"
+			],
+			[
+				"main.cs",
+				"workspace/themes/active/css/main.css"
+			],
+			[
+				"foundation",
+				"workspace/foundation/scss/foundation.scss"
+			],
+			[
+				"norma",
+				"workspace/foundation/scss/normalize.scss"
+			],
+			[
+				"teachi",
+				"workspace/themes/active/xsl/teachings.xsl"
+			],
+			[
+				"core.les",
+				"workspace/less/core/core.less"
+			],
+			[
+				"template",
+				"workspace/themes/active/xsl/template.xsl"
+			],
+			[
+				"master.les",
+				"workspace/less/master.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jdsimcoe/Sites/simko/simko.sublime-project"
+			],
+			[
+				"fla",
+				"~/Tools/Symphony-FlatAdminTheme/FlatAdminTheme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 228.0,
+	"status_bar_visible": false
+}

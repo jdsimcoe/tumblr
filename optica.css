@@ -1,0 +1,64 @@
+/* Heading Overrides */
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'proxima-nova';
+}
+h1,h2,h3 {
+  text-transform: uppercase;
+}
+
+/* Title + Sub-title */
+
+h1 {
+  letter-spacing: 0.02em;
+  margin-top: 70px;
+}
+
+h1 + .sub-title {
+  font-size: 1.2em;
+  margin-top: 5px !important;
+}
+
+h1 + .sub-title + hr {
+  border: 0;
+  border-top: 2px solid #e0e0e0;
+  margin: 40px auto 10px auto;
+  width: 50%;
+}
+
+/* Post Mods */
+
+.post img {
+  width: 100%;
+}
+
+.post h2 {
+  font-size: 1.5em;
+}
+
+.post hr {
+  margin: 25px -25px 25px -25px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+figure.photoset {
+  margin-right: -1px;
+}
+
+blockquote {
+  color: #777;
+}
+
+.quote .post > blockquote {
+  font-family: 'ff-tisa-web-pro', Georgia, Times, serif;
+}
+
+.quote .post .source > div {
+  margin-left: -40px;
+}
+
+.attribution-tags li {
+  font-family: 'ff-tisa-web-pro', Georgia, Times, serif;
+  font-size: 14px;
+}
